@@ -6,6 +6,7 @@
 194.223
 1c.premierzal.ru
 2.212
+245.19
 60.30
 6ahddutb1ucc3cp.ru
 aboutbeautifulgallopinghorsesinthegreenpasture.online
@@ -15,6 +16,7 @@ bt.bontal.net
 bt.poletracker.org
 bt.rer.lol
 bt1.xxxxbt.cc
+bt251.com
 buny.uk
 bvarf.tracker.sh
 cny.fan
@@ -33,6 +35,7 @@ home.yxgz.club
 huoxingba.com
 in-addr.arpa
 ipv4announce.sktorrent.eu
+jiesen.life
 leet-tracker.moe
 lucke.fenesisu.moe
 martin-gebhardt.eu
@@ -48,7 +51,9 @@ open.trackerlist.xyz
 opentracker.io
 opentrackr.org
 p4p.arenabg.com
+privex.cc
 public.tracker.vraphim.com
+ready4.icu
 rekcart.duckdns.org
 retracker.lanta.me
 retracker.spark-rostov.ru
@@ -149,6 +154,7 @@ wepzone.net
 www.161.135
 www.194.223
 www.2.212
+www.245.19
 www.60.30
 www.dg2.i2p
 www.genesis-sp.org
