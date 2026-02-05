@@ -49,7 +49,11 @@ open.stealth.si
 open.tracker.cl
 open.trackerlist.xyz
 opentracker.dg2.i2p
+opentracker.eeptorrent.i2p
 opentracker.io
+opentracker.r4sas.i2p
+opentracker.simp.i2p
+opentracker.skank.i2p
 opentrackr.org
 p4p.arenabg.com
 privex.cc
@@ -97,6 +101,7 @@ tracker.dler.com
 tracker.dler.org
 tracker.dmcomic.org
 tracker.ducks.party
+tracker.eeptorrent.i2p
 tracker.filemail.com
 tracker.flatuslifir.is
 tracker.fnix.net
