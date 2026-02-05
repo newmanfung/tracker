@@ -123,6 +123,7 @@ tracker.qingwa.pro
 tracker.qu.ax
 tracker.renfei.net
 tracker.sbsub.com
+tracker.skyts.cn
 tracker.srv00.com
 tracker.startwork.cv
 tracker.t-1.org
