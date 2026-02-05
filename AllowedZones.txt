@@ -119,6 +119,7 @@ tracker.opentrackr.org
 tracker.playground.ru
 tracker.plx.im
 tracker.pmman.tech
+tracker.qingwa.pro
 tracker.qu.ax
 tracker.renfei.net
 tracker.sbsub.com
@@ -143,6 +144,7 @@ tracker.wf
 tracker.xiaoduola.xyz
 tracker.yemekyedim.com
 tracker.zhuqiy.com
+tracker.zhuqiy.com.eo.dnse4.com
 tracker.zupix.online
 tracker1.bt.moack.co.kr
 tracker1.myporn.club
