@@ -48,6 +48,7 @@ open.dstud.io
 open.stealth.si
 open.tracker.cl
 open.trackerlist.xyz
+opentracker.dg2.i2p
 opentracker.io
 opentrackr.org
 p4p.arenabg.com
